@@ -9,7 +9,7 @@ md = r"""# 👋 Karna Tejesh Kumar
 
 ### React.js • Next.js • TypeScript • JavaScript • React Native • Node.js
 
-<img src="Assets/output.gif" width="100%" alt="Hero"/>
+<img src="gun-sirichote-night-workflow3-animated3-edit.gif" width="100%" alt="Hero"/>
 
 <p>
 <a href="https://github.com/karnatejesh2561"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
