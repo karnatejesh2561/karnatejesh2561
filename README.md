@@ -38,7 +38,7 @@ Building scalable, high-performance web applications with modern frontend techno
 
 <div align="center">
 
-<img src="Assets/output.gif" width="100%" alt="Developer Animation"/>
+<img src="gun-sirichote-night-workflow3-animated3-edit.gif" width="100%" alt="Developer Animation"/>
 
 </div>
 
