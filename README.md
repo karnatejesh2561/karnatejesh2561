@@ -178,7 +178,7 @@ Ask Me About:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=karnatejesh2561&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karnatejesh2561&theme=github-dark"/>
 
 </div>
 
@@ -186,7 +186,7 @@ Ask Me About:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karnatejesh2561&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karnatejesh2561&theme=github_dark"/>
 
 </div>
 
