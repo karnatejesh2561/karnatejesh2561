@@ -1,88 +1,30 @@
-# Hi 👋 I'm Karna Tejesh Kumar
+I have an old GitHub profile README that needs a complete redesign and modernization. Rebuild it into a visually stunning, modern, recruiter-friendly profile README based on my current skills and assets.
 
-::: {align="center"}
-`<img src="IMG_3070.PNG" width="140"/>`{=html}
+REQUIREMENTS:
 
-### Frontend Engineer • React Native • Next.js • TypeScript
+1. HERO SECTION
+- Name, professional tagline, full-width centered layout
+- Modern Markdown + HTML typography
+- Large clickable social icons: GitHub, LinkedIn, Instagram, Portfolio, Email
 
-`<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>`{=html}
+2. ANIMATED MEDIA
+- Embed Assets/output.gif (already generated)
+- Use relative paths only
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://tejesh-karna-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tkarna)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/karnatejesh2561)
-:::
+3. ABOUT / CURRENTLY WORKING ON
+- Current role, tech stack, learning goals, content presence, ask-me-about list
+- Tech: Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis, LLMs, Prompt Engineering, Vector DBs, System Design
 
-------------------------------------------------------------------------
+4. SKILLS SHOWCASE
+- Modern badges via skillicons.dev, shields.io, devicon
+- Categorize: Backend, Frontend, Cloud & DevOps, Databases, AI/ML, Tools
 
-## 🚀 About Me
+5. GITHUB ANALYTICS
+- Stats card, top languages, streak stats, trophies
+- Centered, clean layout
 
--   📱 Building **ManaTaskPlanner**
--   🤖 Learning OpenAI, Gemini & AI integrations
--   ⚡ 3+ years building production web & mobile apps
--   🚀 React Native • React • Next.js • TypeScript
+DESIGN: Modern, premium, recruiter-friendly. Clean Markdown + HTML. Optimized for GitHub rendering. Relative asset paths. No broken links.
 
-## 💻 Tech Stack
+PLACEHOLDERS: [Karna tejesh kumar], [Frontend Engineer], [React.js | Next.js | TypeScript | JavaScript | React Native | Node.js], [https://github.com/karnatejesh2561], [https://github.com/karnatejesh2561], [https://tejesh-karna-portfolio.vercel.app/], [tejeshkarna96@gmail.com]
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,supabase,firebase,redux,tailwind,git,github,vercel,vscode,figma"/>`{=html}
-```{=html}
-</p>
-```
-## 📊 GitHub Analytics
-
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=karnatejesh2561&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnatejesh2561&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=karnatejesh2561&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=karnatejesh2561&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
-## 🏆 Trophies
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=karnatejesh2561&theme=tokyonight&no-frame=true"/>`{=html}
-```{=html}
-</p>
-```
-## 🐍 Contribution Snake
-
-> Enable a GitHub Action to generate:
->
-> `output/github-contribution-grid-snake-dark.svg`
-
-``` html
-<img src="https://raw.githubusercontent.com/karnatejesh2561/karnatejesh2561/output/github-contribution-grid-snake-dark.svg"/>
-```
-
-## 🌐 Featured Links
-
--   Portfolio: https://tejesh-karna-portfolio.vercel.app/
--   PalAsk: https://www.palask.ai/
--   Together Buying: https://togetherbuying.in/
--   LinkedIn: https://linkedin.com/in/tkarna
--   GitHub: https://github.com/karnatejesh2561
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### Thanks for visiting! ⭐
-:::
+Final goal: a high-quality developer portfolio landing page directly inside GitHub.
