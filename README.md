@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="150" valign="top">
-<img src="https://ui-avatars.com/api/?name=Tejesh+Kumar&size=180&background=4A00E0&color=fff&bold=true&rounded=true&font-size=0.38" width="140" style="border-radius:50%"/>
+<img src="IMG_3070.PNG" width="140" style="border-radius:50%"/>
 </td>
 <td valign="top">
 
@@ -63,26 +63,26 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 
 ## 📊 GitHub Analytics
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` in every URL below with your real GitHub username — that's why the graphs currently show as broken images.
+> ⚠️ Replace `karnatejesh2561` in every URL below with your real GitHub username — that's why the graphs currently show as broken images.
 
 **Overview & Streak**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&count_private=true" align="left" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" align="left" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karnatejesh2561&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&count_private=true" align="left" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnatejesh2561E&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" align="left" width="49%"/>
 
 <br clear="left"/>
 <br/>
 
 **Language Donut Chart**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" align="left" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnatejesh2561&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" align="left" width="45%"/>
 
 <br clear="left"/>
 <br/>
 
 **Contribution Line Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=ffffff" align="left" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karnatejesh2561&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=ffffff" align="left" width="95%"/>
 
 <br clear="left"/>
 <br/>
@@ -90,7 +90,7 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 **Isometric 3D Contribution Grid**
 *(requires a one-time free GitHub Action — see setup note below)*
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/profile-3d-contrib/profile-night-rainbow.svg" align="left" width="95%"/>
+<img src="https://raw.githubusercontent.com/karnatejesh2561/karnatejesh2561/output/profile-3d-contrib/profile-night-rainbow.svg" align="left" width="95%"/>
 
 <br clear="left"/>
 <br/>
@@ -99,7 +99,7 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 <summary>⚙️ How to enable the 3D contribution grid (one-time, 2 min)</summary>
 <br/>
 
-1. In your `YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME` repo, add a workflow file `.github/workflows/3d-contrib.yml` using the action from **yoshi389111/github-profile-3d-contrib**.
+1. In your `karnatejesh2561/karnatejesh2561` repo, add a workflow file `.github/workflows/3d-contrib.yml` using the action from **yoshi389111/github-profile-3d-contrib**.
 2. Commit — it auto-generates SVGs into an `output` branch on a schedule.
 3. The image URL above will then render your real, animated-camera-angle 3D grid instead of a broken link.
 
@@ -107,7 +107,7 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 
 **Trophy Case**
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" align="left" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karnatejesh2561&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" align="left" width="95%"/>
 
 <br clear="left"/>
 <br/><br/>
@@ -147,7 +147,7 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 <br/>
 
 <!-- ===================== FOOTER ===================== -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" align="left"/>
+<img src="https://komarev.com/ghpvc/?username=karnatejesh2561&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" align="left"/>
 
 <br clear="left"/>
 
