@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="150" valign="top">
-<img src="IMG_3070.PNGsize=180&background=4A00E0&color=fff&bold=true&rounded=true&font-size=0.38" width="140" style="border-radius:50%"/>
+<img src="IMG_3070.PNG&size=180&background=4A00E0&color=fff&bold=true&rounded=true&font-size=0.38" width="140" style="border-radius:50%"/>
 </td>
 <td valign="top">
 
@@ -80,6 +80,8 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 <br clear="left"/>
 <br/>
 
+> If the donut shows blank/broken: it means GitHub can't detect languages across your public repos yet (e.g. your `karnatejesh2561/karnatejesh2561` repo only has a README, no code). It'll populate once you have at least one public repo with actual source files pushed to it.
+
 **Contribution Line Graph**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karnatejesh2561&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=ffffff" align="left" width="95%"/>
@@ -90,18 +92,55 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 **Isometric 3D Contribution Grid**
 *(requires a one-time free GitHub Action — see setup note below)*
 
-<img src="https://raw.githubusercontent.com/karnatejesh2561/karnatejesh2561/output/profile-3d-contrib/profile-night-rainbow.svg" align="left" width="95%"/>
+<img src="https://raw.githubusercontent.com/karnatejesh2561/karnatejesh2561/main/profile-3d-contrib/profile-night-rainbow.svg" align="left" width="95%"/>
 
 <br clear="left"/>
 <br/>
 
 <details>
-<summary>⚙️ How to enable the 3D contribution grid (one-time, 2 min)</summary>
+<summary>⚙️ How to enable the 3D contribution grid (one-time, ~3 min) — REQUIRED, this is not automatic</summary>
 <br/>
 
-1. In your `karnatejesh2561/karnatejesh2561` repo, add a workflow file `.github/workflows/3d-contrib.yml` using the action from **yoshi389111/github-profile-3d-contrib**.
-2. Commit — it auto-generates SVGs into an `output` branch on a schedule.
-3. The image URL above will then render your real, animated-camera-angle 3D grid instead of a broken link.
+This image does **not** work out of the box like the other graphs — it needs a GitHub Action running inside your own `karnatejesh2561/karnatejesh2561` repo to generate it. Steps:
+
+1. In your `karnatejesh2561/karnatejesh2561` repo, create the file `.github/workflows/profile-3d.yml` with this exact content (also provided as a separate download alongside this README):
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
+```
+
+2. Commit it, then go to the **Actions** tab → `GitHub-Profile-3D-Contrib` → **Run workflow** (don't wait for the daily schedule the first time).
+3. Once it finishes (~30–60 sec), it commits 10 generated SVGs into a new `profile-3d-contrib/` folder on your `main` branch — including `profile-night-rainbow.svg`, which is what the image above points to.
+4. Refresh this README and the grid will render. It'll now auto-update once a day on its own.
+
+Other style options it generates (swap the filename in the image URL above if you prefer): `profile-green-animate.svg`, `profile-season-animate.svg`, `profile-night-view.svg`, `profile-gitblock.svg`.
 
 </details>
 
