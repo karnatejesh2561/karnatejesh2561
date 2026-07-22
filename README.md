@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="150" valign="top">
-<img src="IMG_3070.PNG" width="140" style="border-radius:50%"/>
+<img src="IMG_3070.PNGsize=180&background=4A00E0&color=fff&bold=true&rounded=true&font-size=0.38" width="140" style="border-radius:50%"/>
 </td>
 <td valign="top">
 
@@ -16,9 +16,9 @@
 
 <a href="mailto:tejeshkarna96@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+918309992561"><img src="https://img.shields.io/badge/Call-4A00E0?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tkarna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tejesh-karna-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/karnatejesh2561"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/📍-Hyderabad%20%2F%20Bangalore-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🌐-Open%20to%20Remote-00C9FF?style=for-the-badge"/>
 
@@ -63,12 +63,12 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 
 ## 📊 GitHub Analytics
 
-> ⚠️ Replace `karnatejesh2561` in every URL below with your real GitHub username — that's why the graphs currently show as broken images.
+> ⚠️ Username is now set to `karnatejesh2561`. If a card still shows **"Could not find a user with that name"** (as in your screenshot), it's not the README's fault — see the note at the bottom of this section for why and how to fix it.
 
 **Overview & Streak**
 
 <img src="https://github-readme-stats.vercel.app/api?username=karnatejesh2561&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&count_private=true" align="left" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnatejesh2561E&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" align="left" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karnatejesh2561&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" align="left" width="49%"/>
 
 <br clear="left"/>
 <br/>
@@ -105,6 +105,8 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 
 </details>
 
+> **Why the stats card said "Could not find a user with that name":** that error comes from the `github-readme-stats` API itself (not your username being wrong — your profile at github.com/karnatejesh2561 is real). It usually means: the free Vercel-hosted API is rate-limited/asleep at that moment, or your GitHub account has zero public repos for it to read stats from. Fixes: (1) refresh in a minute — camo/vercel often just needs a retry, (2) make sure you have at least one **public** repo, (3) if it persists, self-host the API for free on your own Vercel account (fork `anuraghazra/github-readme-stats` → deploy → swap the domain in the URLs).
+
 **Trophy Case**
 
 <img src="https://github-profile-trophy.vercel.app/?username=karnatejesh2561&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" align="left" width="95%"/>
@@ -131,12 +133,16 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 - Reduced load times by **40%**, boosted engagement by **25%**
 - Built **20+** reusable UI components
 
+🔗 **Live:** [palask.ai](https://www.palask.ai/)
+
 ### 🛒 Together Buying — Group Purchasing Platform
 `Mar 2023 – Jul 2025` · `Next.js` `JavaScript` `Sass (SCSS)`
 - SSR + dynamic routing for improved SEO and speed
 - Real-time order tracking, countdown deals, admin dashboards
 - Optimized via lazy loading & efficient API handling
 - Supported **500+** orders in production
+
+🔗 **Live:** [togetherbuying.in](https://togetherbuying.in/)
 
 <br/>
 
