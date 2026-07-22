@@ -75,7 +75,7 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 
 **Language Donut Chart**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnatejesh2561&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" align="left" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=karnatejesh2561&include_all_commits=true" align="left" width="45%"/>
 
 <br clear="left"/>
 <br/>
