@@ -67,7 +67,7 @@ Status:        Immediate joiner · Open to Remote, Onsite & Relocation
 
 **Overview & Streak**
 
-<img src="https://github-readme-stats.vercel.app/api?username=karnatejesh2561&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&count_private=true" align="left" width="49%"/>
+<img src="[https://github-readme-stats.vercel.app/api?username=karnatejesh2561&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&count_private=true](https://github-stats-extended.vercel.app/api/top-langs?username=karnatejesh2561&langs_count=4)" align="left" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karnatejesh2561&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" align="left" width="49%"/>
 
 <br clear="left"/>
